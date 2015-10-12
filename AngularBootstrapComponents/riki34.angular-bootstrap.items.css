@@ -1,0 +1,30 @@
+.custom-scroll {}
+
+.custom-scroll ::-webkit-scrollbar {
+    width: 8px;
+}
+
+.custom-scroll ::-webkit-scrollbar-button {
+
+}
+
+.custom-scroll ::-webkit-scrollbar-track        {
+
+}
+
+.custom-scroll ::-webkit-scrollbar-track-piece  {
+    background-color: transparent;
+}
+
+.custom-scroll ::-webkit-scrollbar-thumb {
+    background-color: lightgray;
+    border-radius: 12px;
+}
+
+.custom-scroll ::-webkit-scrollbar-corner       {
+
+}
+
+.custom-scroll ::-webkit-resizer                {
+
+}
